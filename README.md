@@ -1,3 +1,3 @@
-# Git Practice
-This project contains my basic python programs - updated in main branch
+# Git Practic
+This project contains my python programs - final version after solving conflict git 
 Files: calculator.py, hello.py, student.py, user.py, result.py
